@@ -32,3 +32,6 @@ dataset = pd.DataFrame({'Years': years, 'Revenue': revenue})
 dataset.plot(x='Years', y='Revenue', kind='line', title='Tesla Revenue Over Years')
 
 plt.show()
+
+"""Por algún motivo, el gráfico no se visualiza. Soy incapaz de ver el error. Si el ejercicio no está bien, por favor, dime
+dónde está el fallo y lo solucionaré.""" 
